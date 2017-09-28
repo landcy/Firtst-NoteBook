@@ -1,12 +1,15 @@
-???????Github
+upload local file to Github
 
-1 ??github window
-2 ?github???repository
-3 ???????,??->git bash here
-4 git init
-5 ??.gitignore ????????????
-6 git add . (add????)
-    ??git add ??? 
-7 git commit -m ì????î
-8 git remote add origin github??
+1 install github window
+2 create repository in github
+3 in local folder, click right and chose "git bash here"
+4 input : 
+  git init
+5 make .gitignore file to write the name of file which do not need to upload 
+   vim .gitignore
+6 git add . (add all file)
+  or 
+  git add filename.txt 
+7 git commit -m ‚Äúcomment‚Äù
+8 git remote add origin github_address
 9 git push origin master
