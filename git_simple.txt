@@ -1,0 +1,3 @@
+ 点击github页面右侧头像旁的“+”， 选中New repository
+ 输入名称，描述以及选中readme文件创建选项
+ 创建成功
